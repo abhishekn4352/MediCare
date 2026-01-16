@@ -2,6 +2,12 @@
 
 A responsive healthcare dashboard interface built with **React, HTML, CSS, and JavaScript**. This application demonstrates modern web development practices with reusable components, state management, and mobile-responsive design.
 
+## 🌐 Live Preview
+
+**[View Live Demo](https://medicare-dashboard-ashen.vercel.app)** - https://medicare-dashboard-ashen.vercel.app
+
+The application is deployed on Vercel and ready to use!
+
 ## Features
 
 - **Dashboard Overview** - Statistics and recent activity display
@@ -156,3 +162,34 @@ This project is part of a healthcare management portfolio demonstration.
 ## Author
 
 Developed as a responsive healthcare dashboard application showcasing modern React and UI/UX best practices.
+
+## Repository
+
+- **GitHub:** https://github.com/abhishekn4352/MediCare
+- **Live Demo:** https://medicare-dashboard-ashen.vercel.app
+
+## Quick Start
+
+1. Clone the repository:
+```bash
+git clone https://github.com/abhishekn4352/MediCare.git
+cd MediCare
+```
+
+2. Install dependencies and start:
+```bash
+npm install
+npm run dev
+```
+
+3. Open http://localhost:5173 in your browser
+
+## Deployment
+
+The project is automatically deployed to Vercel. Any push to the main branch will trigger a new deployment.
+
+Deploy your own version:
+```bash
+npm install -g vercel
+vercel --prod
+```
